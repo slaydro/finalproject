@@ -67,5 +67,5 @@ def main():
             print("Invalid input. Please try again.")
 
 if __name__ == "__main__":
-    main(
+    main()
 
